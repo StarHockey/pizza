@@ -1,5 +1,7 @@
 #ifndef PIZZA_H
 #define PIZZA_H
+
+#include <QString>
 #include <QStringList>
 #include <iostream>
 
