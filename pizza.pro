@@ -19,7 +19,8 @@ SOURCES += \
         pepperonipizza.cpp \
         pizza.cpp \
         pizzastore.cpp \
-        simplepizzafactory.cpp
+        simplepizzafactory.cpp \
+        chilipizza.cpp
 
 # Default rules for deployment.
 qnx: target.path = /tmp/$${TARGET}/bin
@@ -30,4 +31,5 @@ HEADERS += \
     pepperonipizza.h \
     pizza.h \
     pizzastore.h \
-    simplepizzafactory.h
+    simplepizzafactory.h \
+    chilipizza.h

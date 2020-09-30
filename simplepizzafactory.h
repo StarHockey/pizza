@@ -3,6 +3,7 @@
 
 #include "pizza.h"
 #include "pepperonipizza.h"
+#include "chilipizza.h"
 
 class simplepizzafactory {
 public:
